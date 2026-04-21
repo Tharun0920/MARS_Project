@@ -1,0 +1,8 @@
+venv/
+*.pyc
+__pycache__/
+._*
+.DS_Store
+*.pth
+get-pip.py
+data/
